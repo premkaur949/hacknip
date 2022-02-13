@@ -1,0 +1,76 @@
+body{
+    background-color: #b9b8b8;
+    margin: 0px;
+    text-align: center;
+}
+
+h1{
+    font-size: 80px;
+    font-weight: 400;
+    text-align: center;
+    font-family:BD MERCED;
+    color: rgb(46, 49, 199);
+}
+h2{
+    font-size: 70px;
+    font-weight: 400;
+    text-align: center;
+    font-family:BD MERCED;
+    color: rgba(65, 29, 10, 0.795);
+}
+
+p{
+    font-size: 35px;
+    font-family:Monotype Corsiva;
+    color: rgb(12, 12, 12);
+}
+
+#header{
+    background-image: url('https://image.shutterstock.com/image-vector/mechanic-cartoon-car-you-design-260nw-311912486.jpg');
+    background-size: cover;
+    height: 700px;
+    padding: 50px;
+    margin: 0px 0px 25px 0px;
+}
+
+#aboutus{
+    background-image: url("https://i.pinimg.com/474x/9a/ac/4e/9aac4ecbc376b0d3dc1ee84e565e3260.jpg");
+    background-size: cover;
+    width: 60%;
+    margin: 25px auto 25px auto;
+    padding: 10px;
+    border: 5px rgb(3, 3, 3) solid;
+}
+
+#aboutus img{
+    width: 30%;
+    border: 5px rgb(13, 14, 13) solid;
+    border-radius: 250px;
+}
+
+#contacts{
+    background-image: url("https://i.pinimg.com/474x/9a/ac/4e/9aac4ecbc376b0d3dc1ee84e565e3260.jpg");
+    background-size: cover;
+    width: 60%;
+    margin: 25px auto 25px auto;
+    padding: 10px;   
+    border: 5px rgb(7, 7, 7) solid; 
+}
+
+#socialmedia{
+    background-image: url("https://i.pinimg.com/474x/9a/ac/4e/9aac4ecbc376b0d3dc1ee84e565e3260.jpg");
+    background-size: cover;
+    width: 60%;
+    margin: 25px auto 25px auto;
+    padding: 10px;
+    border: 5px rgb(7, 7, 7) solid;
+}
+
+#footer{
+
+    background-color: rgb(211, 128, 51);
+    margin: 0;
+}
+#foot{
+    font-family:GoudyOLStBT;
+}
